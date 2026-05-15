@@ -5,11 +5,6 @@ No signup.
 No API.
 Just paste and clean.
 
----
-
-## Live Demo
-
-https://text-cleaner-orpin.vercel.app/
 
 ---
 
@@ -68,7 +63,6 @@ No data is sent to any server.
 
 ```bash
 # Clone the repo
-git clone https://github.com/berkinyilmaz/text-cleaner.git
 
 # Install dependencies
 cd text-cleaner
