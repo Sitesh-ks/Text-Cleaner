@@ -265,7 +265,6 @@ export default function App() {
 
       <footer className="footer">
         <a
-          href="https://instagram.com/berkindev"
           target="_blank"
           rel="noopener noreferrer"
         >
